@@ -1,7 +1,7 @@
 ### Hey there!
 
 -  I’m currently working on my portfolio
--  I’m currently learning Python
+-  Learning Python at the moment
 -  How to reach me: Mettal#2719 on discord
 
   <a href="https://github.com/rafaballerini">
